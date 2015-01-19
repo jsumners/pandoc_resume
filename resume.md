@@ -1,100 +1,107 @@
-Johnny Coder
-============
+James Sumners
+=============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Specialties: Linux, HTML, CSS, JavaScript, Java\
+> *An adept system administrator and developer*
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Clayton State University (Network & Enterprise Services)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+:   *Linux System Administrator, November 2014 – Present*
 
-* First item
+    I am the lead system administrator for all Linux systems used by Clayton
+    State University. In this posistion, some of my various duties include:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    - Implement SSL termination and load balancing for campus websites
+      using HAProxy and Keepalived
+    - Primary administrator for all Linux based servers (30+)
+    - Maintain and package Red Hat RPMs
+    - Setup and administer Red Hat Satellite 6
+    - Lead campus web portal replacement committee
+    - Member of the change management board
 
-**That Other Job You Had**
+**Clayton State University (Administrative Systems)**
 
-Also with a short description.
+:   *Database Developer/Linux Administrator, March 2009 - November 2014*
 
-Technical Experience
---------------------
+    In this position I was a web developer, database developer, and Linux
+    system administor. Some of my accomplishments in this position include:
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    - Developed a replacement SSO connector for Ellucian's Luminis 4
+      web portal
+    - Wrote and maintained Oracle PL/SQL packages to facilitate backend
+      operations, e.g. scheduled emails with inline attachments and
+      data integration betwen systems
+    - Maintained all Linux systems powering the campus Student Information
+      System (Banner)
+    - Developed a two-factor authentication add-on for the campus's Luminis
+      4 implementation
+    - Developed REST based web APIs for data integration between systems
+      like the Student Information System and the campus web portal
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Platypus Web Productions**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   *Lead Web Developer, April 2009 – December 2009*
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    *Platypus Web Productions* was a short lived independent web design and
+    development firm established by me and a partner. In my role as the web
+    developer I:
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    - Developed a simple PHP templating engine for use in client projects
+    - Worked with the lead designer to devise workable web site designs
+    - Implemented web site designs from lead designer in PHP, HTML, and CSS
+    - Implemented dynamic functionality of designs using JavaScript and jQuery
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**Sumners Blueberry Farms**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   *Treasurer & Secretary, March 2007 – August 2009*
 
-[ref]: https://github.com/githubuser/superlongprojectname
+    *Sumners Blueberry Farms* is a family operated corporation based in
+    South Haven, Michigan. During my tenure as Treasurer and Secretary I:
 
-Extra Section, Call it Whatever You Want
+    - Maintained corporate accounting using the GNUCash finance software
+    - Tracked production using OpenOffice Calc spreadsheets
+    - Generated reports using OpenOffice Calc and Writer
+    - Scanned receipts and other documents for long term archival
+    - Organized physical and digital documents for easy reference
+    - Communicated with third parties via phone, letters, and in-person meetings
+
+Skill Set Summary
+-----------------
+
++-------------------------+---------------+----------------+
+| Apache HTTPD            | Apache Tomcat | CSS            |
++-------------------------+---------------+----------------+
+| Effective Communication | HAProxy       | HTML           |
++-------------------------+---------------+----------------+
+| Java                    | JavaScript    | jQuery         |
++-------------------------+---------------+----------------+
+| Linux                   | Maven         | MySql          |
++-------------------------+---------------+----------------+
+| nginx                   | Oracle 11g    | PL/SQL         |
++-------------------------+---------------+----------------+
+| PostgreSQL              | Python        |                |
++-------------------------+---------------+----------------+
+
+
+Education
+---------
+
+2008
+:   **B.Sc., Mathematics**; Clayton State University (Morrow, GA)
+
+References
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+*Available upon request*
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <james.sumners@gmail.com> • (404) 939 – 3576\
+> PO BOX 1567 – Fairburn, GA 30213
