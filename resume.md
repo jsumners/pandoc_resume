@@ -36,7 +36,7 @@ Experience
       web portal
     - Wrote and maintained Oracle PL/SQL packages to facilitate backend
       operations, e.g. scheduled emails with inline attachments and
-      data integration betwen systems
+      data integration between systems
     - Maintained all Linux systems powering the campus Student Information
       System (Banner)
     - Developed a two-factor authentication add-on for the campus's Luminis
