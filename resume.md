@@ -30,7 +30,7 @@ Experience
 :   *Database Developer/Linux Administrator, March 2009 - November 2014*
 
     In this position I was a web developer, database developer, and Linux
-    system administor. Some of my accomplishments in this position include:
+    system administrator. Some of my accomplishments in this position include:
 
     - Developed a replacement SSO connector for Ellucian's Luminis 4
       web portal
