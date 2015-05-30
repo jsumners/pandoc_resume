@@ -16,7 +16,7 @@ Experience
 :   *Linux System Administrator, November 2014 – Present*
 
     I am the lead system administrator for all Linux systems used by Clayton
-    State University. In this posistion, some of my various duties include:
+    State University. In this position, some of my various duties include:
 
     - Implement SSL termination and load balancing for campus websites
       using HAProxy and Keepalived
@@ -67,8 +67,6 @@ Experience
     - Maintained corporate accounting using the GNUCash finance software
     - Tracked production using OpenOffice Calc spreadsheets
     - Generated reports using OpenOffice Calc and Writer
-    - Scanned receipts and other documents for long term archival
-    - Organized physical and digital documents for easy reference
     - Communicated with third parties via phone, letters, and in-person meetings
 
 Skill Set Summary
