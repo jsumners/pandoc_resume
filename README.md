@@ -7,7 +7,7 @@ Instructions:
 $ git clone https://github.com/mszep/pandoc_resume
 $ cd pandoc_resume
 $ vim resume.md   #insert your own resume info
-$ npm install && grunt all
+$ npm run build
 ```
 
 Requirements:
@@ -15,4 +15,3 @@ Requirements:
 * ConTteXt
 * pandoc
 * node.js
-* Grunt

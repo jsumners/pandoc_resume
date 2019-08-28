@@ -2,7 +2,6 @@
   "name": "pandoc_resume",
   "version": "0.1.0",
   "description": "Manage your résumé with Pandoc and Markdown",
-  "main": "Gruntfile.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mszep/pandoc_resume.git"
@@ -13,10 +12,15 @@
     "url": "https://github.com/mszep/pandoc_resume/issues"
   },
   "homepage": "https://github.com/mszep/pandoc_resume",
-  "dependencies": {
-    "grunt": "^1.0.1",
-    "grunt-panda": "^0.2.9",
-    "grunt-shell": "^2.1.0",
-    "load-grunt-tasks": "^3.5.2"
+  "scripts": {
+    "clean": "rm -f build/{*.docx,*.html,*.log,*.pdf,*.tex,*.tuc}",
+    "docx": "pandoc -s -f markdown -t docx -o build/resume.docx resume.md",
+    "html": "pandoc -s -f markdown -t html5 -o build/resume.html -H templates/chmduquesne.css --metadata pagetitle='James Sumners ~ Resume' resume.md",
+    "pdf-alternate": "npm run tex && cd build && context resume.tex",
+    "pdf": "pandoc -s -f markdown --pdf-engine context -o build/resume.pdf --template=templates/chmduquesne.tex -V papersize=A4 resume.md",
+    "rtf": "pandoc -s -f markdown -t rtf -o build/resume.rtf resume.md",
+    "tex": "pandoc -s -f markdown -t context -o build/resume.tex --template=templates/chmduquesne.tex -V papersize=A4 resume.md",
+    "all": "npm run docx && npm run html && npm run pdf && npm run rtf && npm run tex",
+    "build": "npm run clean && npm run all"
   }
 }

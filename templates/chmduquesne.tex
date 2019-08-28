@@ -1,13 +1,13 @@
 % Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
 % Copyright 2014 Mark Szepieniec <http://github.com/mszep>
-% 
+%
 % ConText style for making a resume with pandoc. Inspired by moderncv.
-% 
+%
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 \startmode[*mkii]
-  \enableregime[utf-8]  
+  \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
 $if(mainlang)$
@@ -15,10 +15,9 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=4A4A4A]
-\definecolor[sectioncolor][h=4E92BD]
-\definecolor[rulecolor][h=90C5DF]
-\definecolor[descgrey][h=D2D6D7]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
@@ -62,6 +61,7 @@ $endif$
 \setupfloat[table][default={here,nonumber}]
 
 \setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
 
 \setupthinrules[width=15em] % width of horizontal rules
 
