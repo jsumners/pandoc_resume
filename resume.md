@@ -13,18 +13,30 @@ Experience
 
 **Knock**
 
-:   *Software Engineer, May 2018 – Present*
+:    *Senior Software Engineer, May 2020 – March 2022*
+:   *Software Engineer, May 2018 – May 2020*
 
-    I am a backend systems software engineer specializing in Node.js based
-    development. In this position I:
+    I was backend software engineer specializing in Node.js based
+    development with JavaScript. In this position I:
 
-    - Build and maintain the frameworks our backend services are built upon
-    - Work with project manager, designers, and frontend engineers to build
-      products to solve business needs
-    - Stay abreast of changes in our technology stack to keep us updated with
-      the latest security updates
-    - Provide guidance to our devops for the requirements our backend systems
-      need for deployment
+    - Built and maintained the frameworks the backend services were built upon
+    - Worked with project managers, designers, and frontend engineers to build
+      RESTful services to solve business needs, including modeling data to be
+      stored in MySQL databases
+    - Stayed abreast of changes in the technology stack to keep it updated with
+      the latest security advisories
+    - Provided guidance to our devops for the requirements our backend systems
+      needed for deployment
+    - Developed and maintained the Docker images used for deploying services
+    - Built RESTful services to integrate internal and third party data
+    - Built a resilent webhook ingestion system atop Fastify, AWS SQS, and
+      AWS Lambda with Go
+    - Implemented eventing between services with AWS Lambda and AWS SQS
+    - Lead a weekly cross team open meeting that gave backend engineers space
+      to discuss their work and discovered challenges
+    - Mentored junior engineers and peers
+    - Assisted with interviewing to hire new backend engineers that would
+      be a culture and talent fit for the team
 
 **Clayton State University (Technology Infrastructure)**
 
@@ -89,15 +101,19 @@ Skill Set Summary
 -----------------
 
 +-------------------------+---------------+----------------+
-| Ansible                 | Apache Tomcat | CSS            |
+| Node.js                 | JavaScript    | Fastify        |
 +-------------------------+---------------+----------------+
-| Effective Communication | HAProxy       | HTML           |
+| Docker                  | AWS Lambda    | AWS SQS        |
 +-------------------------+---------------+----------------+
-| Java                    | JavaScript    | jQuery         |
+| MySQL                   | Go            | Mentorship     |
 +-------------------------+---------------+----------------+
-| Linux                   | Maven         | MongoDB        |
+| Effective Communication | Ansible       | Apache Tomcat  |
 +-------------------------+---------------+----------------+
-| MySql                   | nginx         | Node.js        |
+| HAProxy                 | Linux         | nginx          |
++-------------------------+---------------+----------------+
+| jQuery                  | CSS           | HTML           |
++-------------------------+---------------+----------------+
+| Java                    | Maven         | MongoDB        |
 +-------------------------+---------------+----------------+
 | Oracle 11g/12c          | PL/SQL        | PostgreSQL     |
 +-------------------------+---------------+----------------+
@@ -118,4 +134,4 @@ References
 
 ----
 
-> <james@sumners.email> • (404) 939 – 3576
+> <james.sumners@gmail.com> • (404) 939 – 3576
