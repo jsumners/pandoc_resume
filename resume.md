@@ -20,6 +20,10 @@ Experience
     development with JavaScript. In this position I:
 
     - Built and maintained the frameworks the backend services were built upon
+    - Built and maintained internal tooling to make developers's day-to-day
+      easier
+    - Built and maintained tooling to run audits against all Git repositories
+      maintained by the organization
     - Worked with project managers, designers, and frontend engineers to build
       RESTful services to solve business needs, including modeling data to be
       stored in MySQL databases
@@ -105,19 +109,9 @@ Skill Set Summary
 +-------------------------+---------------+----------------+
 | Docker                  | AWS Lambda    | AWS SQS        |
 +-------------------------+---------------+----------------+
-| MySQL                   | Go            | Mentorship     |
+| MySQL                   | Git           | Mentorship     |
 +-------------------------+---------------+----------------+
-| Effective Communication | Ansible       | Apache Tomcat  |
-+-------------------------+---------------+----------------+
-| HAProxy                 | Linux         | nginx          |
-+-------------------------+---------------+----------------+
-| jQuery                  | CSS           | HTML           |
-+-------------------------+---------------+----------------+
-| Java                    | Maven         | MongoDB        |
-+-------------------------+---------------+----------------+
-| Oracle 11g/12c          | PL/SQL        | PostgreSQL     |
-+-------------------------+---------------+----------------+
-| Python                  | Spring 3/4    |                |
+| Effective Communication |               |                |
 +-------------------------+---------------+----------------+
 
 
