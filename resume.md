@@ -16,7 +16,7 @@ Experience
 :    *Senior Software Engineer, May 2020 – March 2022*
 :   *Software Engineer, May 2018 – May 2020*
 
-    I was backend software engineer specializing in Node.js based
+    I was a backend software engineer specializing in Node.js based
     development with JavaScript. In this position I:
 
     - Built and maintained the frameworks the backend services were built upon
