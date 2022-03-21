@@ -41,6 +41,8 @@ Experience
     - Mentored junior engineers and peers
     - Assisted with interviewing to hire new backend engineers that would
       be a culture and talent fit for the team
+    - Lead initiatives around open source, including informing the crafting
+      of a company open source contribution policy
 
 **Clayton State University (Technology Infrastructure)**
 
@@ -111,7 +113,7 @@ Skill Set Summary
 +-------------------------+---------------+----------------+
 | MySQL                   | Git           | Mentorship     |
 +-------------------------+---------------+----------------+
-| Effective Communication |               |                |
+| Effective Communication | Open Source   |                |
 +-------------------------+---------------+----------------+
 
 
