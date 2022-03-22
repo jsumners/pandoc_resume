@@ -4,7 +4,8 @@ James Sumners
 ----
 
 > Specialties: JavaScript, Linux\
-> *A software engineer with a background in Linux administration*
+> *A software engineer with a background in Linux administration*\
+> https://james.sumners.info/
 
 ----
 
@@ -91,18 +92,6 @@ Experience
     - Implemented web site designs from lead designer in PHP, HTML, and CSS
     - Implemented dynamic functionality of designs using JavaScript and jQuery
 
-**Sumners Blueberry Farms**
-
-:   *Treasurer & Secretary, March 2007 – August 2009*
-
-    *Sumners Blueberry Farms* is a family operated corporation based in
-    South Haven, Michigan. During my tenure as Treasurer and Secretary I:
-
-    - Maintained corporate accounting using the GNUCash finance software
-    - Tracked production using OpenOffice Calc spreadsheets
-    - Generated reports using OpenOffice Calc and Writer
-    - Communicated with third parties via phone, letters, and in-person meetings
-
 Skill Set Summary
 -----------------
 
@@ -120,8 +109,7 @@ Skill Set Summary
 Education
 ---------
 
-2008
-:   **B.Sc., Mathematics**; Clayton State University (Morrow, GA)
+**B.Sc., Mathematics**; Clayton State University (Morrow, GA)
 
 References
 ----------------------------------------
