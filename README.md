@@ -15,3 +15,9 @@ Requirements:
 * ConTteXt
 * pandoc
 * node.js
+
+```sh
+$ brew install mactex
+$ mtxrun --generate
+$ npm run build
+```

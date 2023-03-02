@@ -12,9 +12,31 @@ James Sumners
 Experience
 ----------
 
+**Mezmo**
+
+:   *Software Engineer III, May 2022 - January 2023*
+
+    I was a backend software engineer on the ecosystem team. My work involved
+    maintaining open source modules for client usage, implementing new
+    customer centric features, and getting an API gateway ready for use:
+
+    - Designed and implemented a Kong plugin to block requests (Lua)
+    - Added sliding window support to the in-house developed Kong rate limiting
+      plugin (Lua)
+    - Maintained the Mezmo OpenTelemetry exporter module (Go)
+    - Designed and implemented AWS Lamba job to email customers about API token
+      expiration, and expire outdated tokens in the MongoDB database (JavaScript)
+    - Designed and implemented an API for customers to query their data usage
+      in relation to their billing (JavaScript)
+    - Improved feature parity in the the company's open source Terraform
+      provider module (Go)
+    - Managed deployments of my work to the company's Kubernetes environments
+    - Worked to improve documentation, with a particular focus on documentation
+      that benefits new hires
+
 **Knock**
 
-:    *Senior Software Engineer, May 2020 – March 2022*
+:   *Senior Software Engineer, May 2020 – March 2022*
 :   *Software Engineer, May 2018 – May 2020*
 
     I was a backend software engineer specializing in Node.js based
@@ -102,7 +124,9 @@ Skill Set Summary
 +-------------------------+---------------+----------------+
 | MySQL                   | Git           | Mentorship     |
 +-------------------------+---------------+----------------+
-| Effective Communication | Open Source   |                |
+| Effective Communication | Open Source   | Go             |
++-------------------------+---------------+----------------+
+| Kubernetes              |               |                |
 +-------------------------+---------------+----------------+
 
 
