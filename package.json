@@ -15,7 +15,7 @@
   "scripts": {
     "clean": "rm -f build/{*.docx,*.html,*.log,*.pdf,*.tex,*.tuc}",
     "docx": "pandoc -s -f markdown -t docx -o build/resume.docx resume.md",
-    "html": "pandoc -s -f markdown -t html5 -o build/resume.html -H templates/chmduquesne.css --metadata pagetitle='James Sumners ~ Resume' resume.md",
+    "html": "pandoc -s -f markdown -t html5 -o build/resume.html -M document-css=false -H templates/chmduquesne.css --metadata pagetitle='James Sumners ~ Resume' resume.md",
     "pdf-alternate": "npm run tex && cd build && context resume.tex",
     "pdf": "pandoc -s -f markdown --pdf-engine context -o build/resume.pdf --template=templates/chmduquesne.tex -V papersize=A4 resume.md",
     "rtf": "pandoc -s -f markdown -t rtf -o build/resume.rtf resume.md",
