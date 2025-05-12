@@ -30,13 +30,42 @@ In my personal time, I am a prolific contributor to open source projects, partic
     
 **LDAPjs**
 
-: *Lead Maintainer, August 2019 - Present*
+: *Lead Maintainer, August 2019 - May 2024*
 : <https://github.com/ldapjs/node-ldapjs>
 
     LDAPjs provides a framework for building LDAP servers, and a client to interact with standard LDAP servers, for applications built with JavaScript on Node.js.
 
+    This project was decommissioned in May of 2024.
+
 Experience
 ----------
+
+**New Relic**
+
+:   *Senior Software Engineer, November 2023 - Present*
+
+    I am a senior software engineer on the Node.js Agent team. My work invloves
+    improving team owned codebases; developing new instrumentations; writing
+    tooling to assist with understanding agent usage, inspect agent data,
+    and automating recurring jobs; and coaching junior engineers. I also
+    represent the team, and company, on the Node.js Diagnostics and Loaders
+    working groups.
+    
+    - Implement AWS Bedrock "AI" instrumentation (JavaScript)
+    - Implement OpenAI instrumentation (JavaScript)
+    - Implement support for multiple instrumentations for the same library
+      when multiple versions are used in a customer's application (JavaScript)
+    - Lead the change to a modern testing framework in order to improve
+      testing of the Agent, developer experience, and reduced CI times/cost (JavaScript)
+    - Implement improved CI workflows to reduce run times/cost and improve
+      developer experience (GitHub Actions)
+    - Devise and implement a tool to query Agent usage data in order to audit
+      said data and write reports (Go)
+    - Devise and implement a tool to parse Agent logs and present it in a user
+      friendly TUI in order to facilitate better customer support and
+      developer experience (Go)
+    - Devise and implement a tool to maintain documentation on which libraries
+      the Agent supports, their versions, and AI monitoring features (Go)
 
 **Mezmo**
 
@@ -127,33 +156,20 @@ Experience
     - Developed REST based web APIs for data integration between systems
       like the Student Information System and the campus web portal
 
-**Platypus Web Productions**
-
-:   *Lead Web Developer, April 2009 – December 2009*
-
-    *Platypus Web Productions* was a short lived independent web design and
-    development firm established by me and a partner. In my role as the web
-    developer I:
-    
-    - Developed a simple PHP templating engine for use in client projects
-    - Worked with the lead designer to devise workable web site designs
-    - Implemented web site designs from lead designer in PHP, HTML, and CSS
-    - Implemented dynamic functionality of designs using JavaScript and jQuery
-
 Skill Set Summary
 -----------------
 
-+-------------------------+---------------+----------------+
-| Node.js                 | JavaScript    | Fastify        |
-+-------------------------+---------------+----------------+
-| Docker                  | AWS Lambda    | AWS SQS        |
-+-------------------------+---------------+----------------+
-| MySQL                   | Git           | Mentorship     |
-+-------------------------+---------------+----------------+
-| Effective Communication | Open Source   | Go             |
-+-------------------------+---------------+----------------+
-| Kubernetes              |               |                |
-+-------------------------+---------------+----------------+
++-------------------------+----------------+----------------+
+| Node.js                 | JavaScript     | Fastify        |
++-------------------------+----------------+----------------+
+| Docker                  | AWS Lambda     | AWS SQS        |
++-------------------------+----------------+----------------+
+| MySQL                   | Git            | Mentorship     |
++-------------------------+----------------+----------------+
+| Effective Communication | Open Source    | Go             |
++-------------------------+----------------+----------------+
+| Kubernetes              | GitHub Actions |                |
++-------------------------+----------------+----------------+
 
 
 Education
